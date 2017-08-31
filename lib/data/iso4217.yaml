@@ -382,8 +382,8 @@ INR:
   code: INR
   name: Rupees
   full_name: "Indian Rupees"
-  symbol: ₨
-  unicode_hex: 8360
+  symbol: ₹
+  unicode_hex: 8377
 IQD:
   code: IQD
   name: Dinars
